@@ -16,12 +16,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/youssef-gaber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-gaber" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/youssef11gaber10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="youssef11gaber10" height="30" width="40" /></a>
-<a href="https://gitlab.com/youssef11gaber10" target="blank">
-  <img align="center" 
-       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gitlab.svg" 
-       alt="youssef11gaber10" 
-       height="30" 
-       width="40" />
+<a href="https://gitlab.com/youssef11gaber10" target="_blank"><img align="center"src="https://cdn.simpleicons.org/gitlab/FC6D26" alt="gitlab" height="30" width="40" />
+</a>
 </a>
 </p>
 
