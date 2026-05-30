@@ -27,11 +27,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Cloud & DevOps](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,ansible,jenkins,prometheus,grafana,nginx,linux&perline=6)](https://skillicons.dev)
-[![Version Control](https://skillicons.dev/icons?i=git,github,gitlab&perline=6)](https://skillicons.dev)
-[![Languages](https://skillicons.dev/icons?i=python,bash,javascript,cpp,cs&perline=6)](https://skillicons.dev)
-[![Frameworks](https://skillicons.dev/icons?i=dotnet,django,nodejs,express&perline=6)](https://skillicons.dev)
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&perline=6)](https://skillicons.dev)
+[![Containerization](https://skillicons.dev/icons?i=docker,kubernetes,openshift&perline=6)](https://skillicons.dev)
+
 <p align="left">
 <!-- DevOps Core -->
 <!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
