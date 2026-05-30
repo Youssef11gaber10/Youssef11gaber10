@@ -27,7 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,ansible,jenkins,prometheus,grafana,nginx,linux,git,github,gitlab,python,bash,javascript,cpp,cs,dotnet,django,nodejs,express,postgres,mysql,mongodb,redis,kafka&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,jenkins,prometheus,grafana,nginx,linux,git,github,gitlab,python,bash,javascript,cpp,cs,dotnet,django,nodejs,express,postgres,mysql,mongodb,redis,kafka&perline=10)](https://skillicons.dev)
 
 <p align="left">
 <!-- DevOps Core -->
