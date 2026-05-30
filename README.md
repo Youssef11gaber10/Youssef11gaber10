@@ -38,6 +38,7 @@
 
 <p align="left">
 <!-- DevOps Core -->
+<h2>🚀 Containerization</h2>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" width="40"/></a>
