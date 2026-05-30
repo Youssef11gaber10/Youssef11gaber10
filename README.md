@@ -34,7 +34,7 @@
 [![CI/CD](https://skillicons.dev/icons?i=jenkins,githubactions,gitlab&perline=10)](https://skillicons.dev)
 [![Linux](https://skillicons.dev/icons?i=linux,bash,redhat,nginx&perline=10)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git,github,gitlab&perline=10)](https://skillicons.dev)
-[![Frameworks](https://skillicons.dev/icons?i=dotnet,django,nodejs,react,redis,postgres,mysql,mongodb&perline=10)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,django,nodejs,react,redis,postgres,mysql,mongodb,kafka&perline=10)](https://skillicons.dev)
 
 
 
