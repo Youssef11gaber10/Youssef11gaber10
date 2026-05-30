@@ -38,12 +38,10 @@
 
 <p align="left">
 <!-- DevOps Core -->
-<h2>🚀 Containerization</h2>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
 <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" width="40"/></a>
 <a href="https://helm.sh/" target="_blank"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40"/></a>
-<a href="https://kustomize.io/" target="_blank"><img src="https://raw.githubusercontent.com/kubernetes-sigs/kustomize/master/docs/images/logo.png" width="40"/></a>
 <a href="https://istio.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" width="40"/></a>
 <a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/></a>
