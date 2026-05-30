@@ -27,14 +27,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![Containerization](https://skillicons.dev/icons?i=docker,kubernetes,openshift&perline=6)](https://skillicons.dev)
-[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,openstack&perline=6)](https://skillicons.dev)
-[![IaC](https://skillicons.dev/icons?i=terraform,ansible&perline=6)](https://skillicons.dev)
-[![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana&perline=6)](https://skillicons.dev)
-[![Frameworks](https://skillicons.dev/icons?i=dotnet,django,nodejs,react&perline=6)](https://skillicons.dev)
-[![CI/CD](https://skillicons.dev/icons?i=jenkins,githubactions,gitlab&perline=6)](https://skillicons.dev)
-[![Linux](https://skillicons.dev/icons?i=linux,bash,redhat&perline=6)](https://skillicons.dev)
-[![Git](https://skillicons.dev/icons?i=git,github,gitlab&perline=6)](https://skillicons.dev)
+[![Containerization](https://skillicons.dev/icons?i=docker,kubernetes,openshift&perline=10)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,openstack&perline=10)](https://skillicons.dev)
+[![IaC](https://skillicons.dev/icons?i=terraform,ansible&perline=10)](https://skillicons.dev)
+[![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana&perline=10)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,django,nodejs,react&perline=10)](https://skillicons.dev)
+[![CI/CD](https://skillicons.dev/icons?i=jenkins,githubactions,gitlab&perline=10)](https://skillicons.dev)
+[![Linux](https://skillicons.dev/icons?i=linux,bash,redhat&perline=10)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git,github,gitlab&perline=10)](https://skillicons.dev)
 
 
 
