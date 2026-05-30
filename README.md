@@ -26,6 +26,9 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,ansible,jenkins,prometheus,grafana,nginx,linux,git,github,gitlab,python,bash,javascript,cpp,cs,dotnet,django,nodejs,express,postgres,mysql,mongodb,redis,kafka&perline=10)](https://skillicons.dev)
+
 <p align="left">
 <!-- DevOps Core -->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
