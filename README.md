@@ -23,9 +23,6 @@
 
 
 
-
-
-<h3 align="left">Languages and Tools:</h3>
 <!--
 [![Containerization](https://skillicons.dev/icons?i=docker,kubernetes,openshift&perline=9)](https://skillicons.dev)
 [![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,openstack&perline=9)](https://skillicons.dev)
@@ -37,11 +34,7 @@
 [![Frameworks](https://skillicons.dev/icons?i=dotnet,django,nodejs,react,redis,postgres,mysql,mongodb,kafka&perline=9)](https://skillicons.dev)
 -->
 
-
-
-
-
-
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
 <!-- DevOps Core -->
